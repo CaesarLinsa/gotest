@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2324d501-edb4-4c44-b992-338e29cae36d" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="D:\go\go" />
+  <component name="GoDepProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1Ww5QiFwoyG9KGUCw5KaoulBQAU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="go.vendoring.notification.had.been.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="goland.project.structure" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\images\gotest" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build gotest">
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="gotest" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/" />
+      <package value="gotest" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build gotest" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="gotest" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="gotest" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build gotest/model" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="gotest" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/model/orm.go" />
+      <package value="gotest/model" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build member.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="gotest" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/controllers/v1/member.go" />
+      <package value="gotest" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build orm.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="gotest" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/model/orm.go" />
+      <package value="gotest" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build test.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="gotest" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/model/test.go" />
+      <package value="gotest" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="gotest" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <package value="gotest" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build gotest" />
+        <item itemvalue="Go Build.go build gotest/model" />
+        <item itemvalue="Go Build.go build orm.go" />
+        <item itemvalue="Go Build.go build test.go" />
+        <item itemvalue="Go Build.go build member.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>https://goproxy.io</proxy>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580050862053">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1580050862053" />
+    <state x="409" y="23" key="#go_build_gotest" timestamp="1580231406181">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="409" y="23" key="#go_build_gotest/0.0.1366.728@0.0.1366.728" timestamp="1580231406181" />
+    <state x="409" y="25" key="#go_build_member.go" timestamp="1580138933384">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="409" y="25" key="#go_build_member.go/0.0.1366.728@0.0.1366.728" timestamp="1580138933384" />
+    <state x="409" y="25" key="#go_build_router.go" timestamp="1580057629870">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="409" y="25" key="#go_build_router.go/0.0.1366.728@0.0.1366.728" timestamp="1580057629870" />
+    <state x="438" y="71" key="#xdebugger.evaluate" timestamp="1580056366707">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="438" y="71" key="#xdebugger.evaluate/0.0.1366.728@0.0.1366.728" timestamp="1580056366707" />
+    <state width="693" height="438" key="DebuggerActiveHint" timestamp="1580228929143">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="693" height="438" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1580228929143" />
+    <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1580230215708">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1580230215708" />
+    <state width="1323" height="419" key="GridCell.Tab.0.bottom" timestamp="1580231417140">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="419" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580231417140" />
+    <state width="1323" height="419" key="GridCell.Tab.0.center" timestamp="1580231417139">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="419" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1580231417139" />
+    <state width="1323" height="419" key="GridCell.Tab.0.left" timestamp="1580231417138">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="419" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1580231417138" />
+    <state width="1323" height="419" key="GridCell.Tab.0.right" timestamp="1580231417139">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="419" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1580231417139" />
+    <state width="1323" height="309" key="GridCell.Tab.1.bottom" timestamp="1580230033150">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="309" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580230033150" />
+    <state width="1323" height="309" key="GridCell.Tab.1.center" timestamp="1580230033150">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="309" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1580230033150" />
+    <state width="1323" height="309" key="GridCell.Tab.1.left" timestamp="1580230033150">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="309" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1580230033150" />
+    <state width="1323" height="309" key="GridCell.Tab.1.right" timestamp="1580230033150">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="309" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1580230033150" />
+    <state x="186" y="9" key="SettingsEditor" timestamp="1580231555819">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1580231555819" />
+    <state x="316" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1580229484889">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="316" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1580229484889" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand>
+      <path>
+        <item name="gotest" type="b2602c69:ProjectViewProjectNode" />
+        <item name="gotest" type="462c0819:PsiDirectoryNode" />
+      </path>
+      <path>
+        <item name="gotest" type="b2602c69:ProjectViewProjectNode" />
+        <item name="gotest" type="462c0819:PsiDirectoryNode" />
+        <item name=".idea" type="462c0819:PsiDirectoryNode" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
